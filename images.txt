@@ -6,4 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 # 需要转存的镜像
 c4illin/convertx:latest
-infiniflow/ragflow:v0.15.0
+infiniflow/ragflow:v0.21.1
